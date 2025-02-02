@@ -1,0 +1,26 @@
+{
+  "name": "comp-sci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZohairGandhi/comp-sci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZohairGandhi/comp-sci/issues"
+  },
+  "homepage": "https://github.com/ZohairGandhi/comp-sci#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0",
+    "prettier": "3.4.2"
+  }
+}
