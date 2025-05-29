@@ -6,7 +6,7 @@ function fibs(n) {
   }
 
   for (let i = 2; i < 8; i += 1) {
-    fibNum = arr[i - 2] + arr[i - 1];
+    let fibNum = arr[i - 2] + arr[i - 1];
     arr.push(fibNum);
   }
 
